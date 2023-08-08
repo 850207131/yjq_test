@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yjq_test.github.io/sitemap.xml
+Sitemap: https://850207131.github.io/yjq_test//sitemap.xml
